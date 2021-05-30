@@ -39,7 +39,7 @@ while True:
     get_for_seven(datetime.today())
 
     username = "rammohnishdikshasrijan@gmail.com"
-    password = "Rammohnishdiksha"
+    password = " " # mention your acc password here
     if not content:
         print("No availability")
 
